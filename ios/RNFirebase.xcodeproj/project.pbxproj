@@ -264,6 +264,7 @@
 					"$(inherited)",
 					"${BUILT_PRODUCTS_DIR}",
 					"${PROJECT_DIR}/../../../ios/Pods/**",
+					"${SRCROOT}/../../../ios/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -271,6 +272,7 @@
 					"$(SRCROOT)/../../node_modules/react-native/React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 					"${SRCROOT}/../../../ios/Pods/**",
+					"${SRCROOT}/../../../ios/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
@@ -293,6 +295,7 @@
 					"$(inherited)",
 					"${BUILT_PRODUCTS_DIR}",
 					"${PROJECT_DIR}/../../../ios/Pods/**",
+					"${SRCROOT}/../../../ios/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,6 +303,7 @@
 					"$(SRCROOT)/../../node_modules/react-native/React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 					"${SRCROOT}/../../../ios/Pods/**",
+					"${SRCROOT}/../../../ios/**",
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
